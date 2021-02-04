@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/marohn2/bookapp.git/static/css/main.faef5474.chunk.css",
+    "main.js": "/marohn2/bookapp.git/static/js/main.0a2d0db1.chunk.js",
+    "main.js.map": "/marohn2/bookapp.git/static/js/main.0a2d0db1.chunk.js.map",
+    "runtime-main.js": "/marohn2/bookapp.git/static/js/runtime-main.b816e609.js",
+    "runtime-main.js.map": "/marohn2/bookapp.git/static/js/runtime-main.b816e609.js.map",
+    "static/js/2.060d4bbd.chunk.js": "/marohn2/bookapp.git/static/js/2.060d4bbd.chunk.js",
+    "static/js/2.060d4bbd.chunk.js.map": "/marohn2/bookapp.git/static/js/2.060d4bbd.chunk.js.map",
+    "index.html": "/marohn2/bookapp.git/index.html",
+    "static/css/main.faef5474.chunk.css.map": "/marohn2/bookapp.git/static/css/main.faef5474.chunk.css.map",
+    "static/js/2.060d4bbd.chunk.js.LICENSE.txt": "/marohn2/bookapp.git/static/js/2.060d4bbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b816e609.js",
+    "static/js/2.060d4bbd.chunk.js",
+    "static/css/main.faef5474.chunk.css",
+    "static/js/main.0a2d0db1.chunk.js"
+  ]
+}
